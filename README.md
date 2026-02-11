@@ -6,14 +6,15 @@ I'm passionate about extracting insights from complex datasets and building ML s
 
 ## About Me
 
-- I'm a physicist turned data-enthusiast, most interested in projects related to health and medicine.
-- One of my current projects is on [MRI tumor classification](https://github.com/zkhechadoorian/mri-brain-tumor-classification)
-- I'm looking to contribute to open source projects
+- I'm a physicist turned data-enthusiast, most interested in projects related to health, medicine, and education.
+- Two of my current projects are on brain tumor classification using MRI ([MRI tumor classification](https://github.com/zkhechadoorian/mri-brain-tumor-classification)) and studying the effects of coffee on the gut microbiome ([coffee-gut-microbiome](https://github.com/zkhechadoorian/coffee-gut-microbiome)). 
+- I'm looking to contribute to open source projects.
 
 ### 🚀 Featured Projects
-- **[MRI Brain Tumor Classification](./mri-brain-tumor)** - Deep learning for medical diagnosis
 - **[CNNs_Cats_and_Dogs](./CNNs_Cats_and_Dogs)** - Binary image classification with Convolutional Neural Networks
-- **[GANs_architecture](./GANs_architecture)** - Exploration and applications of generative AI
+- **[ModernDataWarehouseAndAnalytics](./ModernDataWarehouseAndAnalytics)** - SQL Data Warehouse
+- **[MRI Brain Tumor Classification](./mri-brain-tumor-classification)** - Deep learning for medical diagnosis
+
 
 ### 🛠️ Technical Skills
 **Languages:** Python, SQL, C++
