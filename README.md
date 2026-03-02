@@ -27,6 +27,7 @@ I'm drawn to projects where the analysis has real stakes — understanding disea
 
 - **[CNNs Cats and Dogs](https://github.com/zkhechadoorian/CNNs_Cats_and_Dogs)** — Binary image classification with CNNs
 - **[Modern Data Warehouse & Analytics](https://github.com/zkhechadoorian/ModernDataWarehouseAndAnalytics)** — SQL data warehouse design and analytics pipeline
+- **[Mitigating Costs And Preventing Casualties From Global Terrorism](https://github.com/zkhechadoorian/Mitigating-Costs-And-Preventing-Casualties-From-Global-Terrorism)** - Tableau dashboard to visualize trends in terrorism
 
 ---
 
