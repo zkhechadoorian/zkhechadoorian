@@ -1,27 +1,36 @@
-# Hi there, I'm Zep! 👋
+# Hi, I'm Zep! 👋
 
-## 🔬 Data Scientist | 📊 Analytics Enthusiast | 🧠 Problem Solver
+**Physicist turned data scientist**, focused on applying machine learning to problems in health, medicine, and nutrition.
 
-I'm passionate about extracting insights from complex datasets and building ML solutions with real-world impact. Currently seeking junior data science opportunities. 
+I'm drawn to projects where the analysis has real stakes — understanding disease, improving diagnostics, or uncovering how lifestyle affects biology. Currently seeking junior data science roles.
 
-## About Me
+---
 
-- I'm a physicist turned data-enthusiast, most interested in projects related to health, medicine, and education.
-- Two of my current projects are on brain tumor classification using MRI ([MRI tumor classification](https://github.com/zkhechadoorian/mri-brain-tumor-classification)) and studying the effects of coffee on the gut microbiome ([coffee-gut-microbiome](https://github.com/zkhechadoorian/coffee-gut-microbiome)). 
-- I'm looking to contribute to open source projects.
+## 🔬 What I'm Working On
 
-### 🚀 Featured Projects
-- **[CNNs_Cats_and_Dogs](./CNNs_Cats_and_Dogs)** - Binary image classification with Convolutional Neural Networks
-- **[ModernDataWarehouseAndAnalytics](./ModernDataWarehouseAndAnalytics)** - SQL Data Warehouse
-- **[MRI Brain Tumor Classification](./mri-brain-tumor-classification)** - Deep learning for medical diagnosis
+- **[MRI Brain Tumor Classification](https://github.com/zkhechadoorian/mri-brain-tumor-classification)** — Deep learning pipeline for classifying brain MRI scans into four tumor categories using ResNet18. Emphasis on minimizing missed diagnoses through class-weighted training, early stopping, and threshold-optimized inference.
 
+- **[Coffee & Gut Microbiome](https://github.com/zkhechadoorian/coffee-gut-microbiome)** — Analyzing the effects of coffee consumption on gut microbiome composition. Combines biology domain knowledge with statistical analysis.
 
-### 🛠️ Technical Skills
-**Languages:** Python, SQL, C++
-**ML/DL:** Scikit-learn, TensorFlow, PyTorch  
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, SQL, C++  
+**ML/DL:** PyTorch, TensorFlow, Scikit-learn  
 **Data:** Pandas, NumPy, Matplotlib, Seaborn  
-**Tools:** Git, Jupyter, Docker, AWS
+**Tools:** Git, Jupyter, Docker, AWS  
 
-### 📫 Let's Connect
-- LinkedIn: https://www.linkedin.com/in/zepyoorkhechadoorian/
-- Email: zepyoorkhechadoorian@gmail.com
+---
+
+## 🗂️ Other Projects
+
+- **[CNNs Cats and Dogs](https://github.com/zkhechadoorian/CNNs_Cats_and_Dogs)** — Binary image classification with CNNs
+- **[Modern Data Warehouse & Analytics](https://github.com/zkhechadoorian/ModernDataWarehouseAndAnalytics)** — SQL data warehouse design and analytics pipeline
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zepyoor%20Khechadoorian-blue?logo=linkedin)](https://www.linkedin.com/in/zepyoorkhechadoorian/)
+[![Email](https://img.shields.io/badge/Email-zepyoorkhechadoorian%40gmail.com-red?logo=gmail)](mailto:zepyoorkhechadoorian@gmail.com)
