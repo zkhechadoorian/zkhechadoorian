@@ -10,7 +10,7 @@ I'm drawn to projects where the analysis has real stakes — understanding disea
 
 - **[MRI Brain Tumor Classification](https://github.com/zkhechadoorian/mri-brain-tumor-classification)** — Deep learning pipeline for classifying brain MRI scans into four tumor categories using ResNet18. Emphasis on minimizing missed diagnoses through class-weighted training, early stopping, and threshold-optimized inference.
 
-- **[Coffee & Gut Microbiome](https://github.com/zkhechadoorian/coffee-gut-microbiome)** — Analyzing the effects of coffee consumption on gut microbiome composition. Combines biology domain knowledge with statistical analysis.
+- **[American Gut Project Microbiome Analysis](https://github.com/zkhechadoorian/american-gut-project-microbiome-analysis)** — Analyzing the effects of coffee consumption on gut microbiome composition. Combines biology domain knowledge with statistical analysis.
 
 ---
 
