@@ -12,6 +12,8 @@ I'm drawn to projects where the analysis has real stakes — understanding disea
 
 - **[American Gut Project Microbiome Analysis](https://github.com/zkhechadoorian/american-gut-project-microbiome-analysis)** — Analyzing the effects of coffee consumption on gut microbiome composition. Combines biology domain knowledge with statistical analysis.
 
+- **[Oura Menstrual Cycle Phase Detection](https://github.com/zkhechadoorian/menstrual-cycle-tracking)** - Analyzing personal data collected from the Oura ring to detect ovulation based on temperature readings and detect irregular luteal phase lengths compared to population statistics. Combines reproductive health knowledge with statistical analysis.
+  
 ---
 
 ## 🛠️ Technical Skills
