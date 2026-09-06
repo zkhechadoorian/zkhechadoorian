@@ -11,12 +11,7 @@ I'm drawn to projects where the analysis has real stakes — understanding disea
 - **[MRI Brain Tumor Classification](https://github.com/zkhechadoorian/mri-brain-tumor-classification)** — Deep learning pipeline for classifying brain MRI scans into four tumor categories using ResNet18. Emphasis on minimizing missed diagnoses through class-weighted training, early stopping, and threshold-optimized inference.
 
 - **[Healthcare Data Warehouse](https://github.com/zkhechadoorian/healthcare-data-warehouse)** — Built a medallion architecture (bronze → silver → gold) data warehouse on PostgreSQL using CMS Medicare synthetic claims data (DE-SynPUF, 2.3M beneficiaries, 11M+ claims). Bronze layer loads raw CSVs; silver layer implements type casting, deduplication, and code decoding; gold layer focuses on dimensional modeling and analytics. Demonstrates SQL proficiency, data quality practices, and ETL pipeline design.
-
-- **[American Gut Project Microbiome Analysis](https://github.com/zkhechadoorian/american-gut-project-microbiome-analysis)** — Analyzing the effects of coffee consumption on gut microbiome composition. Combines biology domain knowledge with statistical analysis.
-
-- **[Oura Menstrual Cycle Phase Detection](https://github.com/zkhechadoorian/menstrual-cycle-tracking)** - Analyzing personal data collected from the Oura ring to detect ovulation based on temperature readings and detect irregular luteal phase lengths compared to population statistics. Combines reproductive health knowledge with statistical analysis.
-
-
+  
 ---
 
 ## 🛠️ Technical Skills
